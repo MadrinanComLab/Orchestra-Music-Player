@@ -1,0 +1,46 @@
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.exe.config
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.exe
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.pdb
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.Form1.resources
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.Properties.Resources.resources
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csproj.GenerateResource.Cache
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.exe
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.pdb
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\Interop.AXVLC.dll
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\AxInterop.AXVLC.dll
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\Interop.AXVLC.dll
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\AxInterop.AXVLC.dll
+c:\users\intel\documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csproj.ResolveComReference.cache
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.exe.config
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\Interop.AXVLC.dll
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\AxInterop.AXVLC.dll
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csproj.ResolveComReference.cache
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.exe
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.pdb
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.exe
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.pdb
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\Interop.AXVLC.dll
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\AxInterop.AXVLC.dll
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csprojResolveAssemblyReference.cache
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.Form1.resources
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.Properties.Resources.resources
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csproj.GenerateResource.Cache
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+F:\Documents\visual studio 2012\Projects\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\taglib-sharp.dll
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.exe.config
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\Interop.AXVLC.dll
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\AxInterop.AXVLC.dll
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csproj.ResolveComReference.cache
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.exe
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.pdb
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csprojResolveAssemblyReference.cache
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.Form1.resources
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.Properties.Resources.resources
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\obj\Debug\OrchestraMusicPlayer.csproj.GenerateResource.Cache
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.exe
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\OrchestraMusicPlayer.pdb
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\Interop.AXVLC.dll
+D:\Laboratory Files\OrchestraMusicPlayer\OrchestraMusicPlayer\OrchestraMusicPlayer\bin\Debug\AxInterop.AXVLC.dll
